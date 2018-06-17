@@ -1,3 +1,27 @@
+# Clicky Game
+
+
+#### Test your memory with your favorite friends from *Sponge Bob Square Pants*.
+
+#### Click on each character once to win the game. But don't click on a character twice, or it's game over for you!
+
+#### Built with React. Check it out [here](https://react-clicky-game.herokuapp.com/).
+
+
+## About
+
+A memory game app created with React. This assignment requires you to break 
+up the application's UI into components, manage component state, and respond to user events.
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
